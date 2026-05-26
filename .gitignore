@@ -43,5 +43,6 @@ __screenshots__/
 .docs/
 .vscode
 .claude
+CLAUDE.md
 
 skills-lock.json
